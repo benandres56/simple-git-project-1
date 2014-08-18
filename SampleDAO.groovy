@@ -1,0 +1,4 @@
+class SampleDAO {
+   def doSomething{}
+
+}
